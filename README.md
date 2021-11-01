@@ -4,6 +4,8 @@ This is a basic example of generating a 3D Volume using [3D Slicer](https://www.
 
 Using data from: http://randomfootage.homestead.com/pumpkinctscan.html
 
+![Slicer Example](example.png)
+
 ## Loading into Slicer
 
 1. Open Slicer and add the frames directory as your data set
